@@ -1,0 +1,7 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\bin\Debug\BuddyNumbers.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\bin\Debug\BuddyNumbers.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\bin\Debug\BuddyNumbers.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\obj\Debug\BuddyNumbers.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\obj\Debug\BuddyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\obj\Debug\BuddyNumbers.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\SpecialSelfProjects\BuddyNumbers\obj\Debug\BuddyNumbers.pdb
